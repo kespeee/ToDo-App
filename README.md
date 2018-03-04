@@ -1,12 +1,5 @@
 # React Native Redux Firebase Todo
 
-![demo](https://raw.githubusercontent.com/HCMUS-IceTeaViet-SE/rn-redux-todo-firebase/master/demo.gif)
-
-https://www.youtube.com/watch?v=JwqZ3f7QhZM
-
-## Download
-Coming soon.
-
 ## Technology Stack
 * React Native
 * Redux
